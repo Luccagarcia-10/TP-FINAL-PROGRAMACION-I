@@ -61,4 +61,16 @@ Tkinter generalmente viene incluido con Python.
 El jugador deberá completar los cuatro desafíos antes de que termine el tiempo para conseguir la misión exitosa.
 
 
+6) COMPONENTES A UTILIZAR:
+   1 placa Arduino Mega 2560.
+   4 LEDs individuales.
+   1 LED RGB.
+   6 pulsadores.
+   3 potenciómetros.
+   2 buzzers.
+   4 resistencias para los LEDs.
+   1 protoboard.
+   Cables jumper macho-macho.
+   1 cable USB para Arduino.
+
 NOTA: EL UNICO CAMBIO FUE REMPLAZAR EL USO DEL SERVOMOTOR PARA LA EXPLOSION DEL GLOBO, EN CASO DE FRACASAR (YA QUE LO CONSIDERAMOS PELIGROSO Y COMPLICACIONES DE MAS INECESARIAS). ADEMAS DE ESTO, NO HUBIERON CAMBIOS EN LA REALIZACION DEL PROYECTO, TENIENDO EN CUENTA LO REDACTADO EN EL ANTEPROYECTO DEL TP.
