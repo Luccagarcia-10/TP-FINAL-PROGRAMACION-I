@@ -69,7 +69,7 @@ El jugador deberá completar los cuatro desafíos antes de que termine el tiempo
    3 potenciómetros.
    2 buzzers.
    4 resistencias para los LEDs.
-   1 protoboard.
+   2 protoboards.
    Cables jumper macho-macho.
    1 cable USB para Arduino.
 
